@@ -33,11 +33,6 @@ For the flanger, an LFO that changes the value of the delay is quite easy to imp
 The sample code for the delay effect should be sufficient to get you started in creating delay buffers, because it uses both an input and output delay buffer. Note that for clarity in my implementation, I did NOT use a circular buffer – I have an if statement that explicitly checks for a wrap of the buffer index – but it is more common to simply use the circular buffer. 
 Assessment
 
-Overall, each assignment is worth 5% of your final mark. They will be graded out of 5 as follows:
-Working code with a sample output as a wave file (the creation and recording of the file is already in the code – you just have to change the filename).  /4
-A BRIEF (less than 1 page) description of how your implementation works. /1
-Simply submit the resulting visual studio project (in its entirety, including the ASIO framework code so that I can run it directly from your submission) and your less than 1 page writeup in pdf or Word format. The project can be worked on in groups of no more than two. As long as both names are on the writeup, you can both submit to the same dropbox location – i.e. ONE submission per group.
-The due date for the assignment will be date of the midterm exam (Feb. 27).
 
 
    
