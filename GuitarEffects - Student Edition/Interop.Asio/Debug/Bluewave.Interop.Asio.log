@@ -1,0 +1,10 @@
+﻿  AsioDriver.cpp
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(24): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': marked as obsolete
+  AssemblyInfo.cpp(24): note: Message: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  BufferSize.cpp
+  Channel.cpp
+  InstalledDriver.cpp
+  Generating Code...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Bluewave.Interop.Asio.vcxproj -> C:\Users\sanke\Documents\GitHub\real-time-system\GuitarEffects - Student Edition\Debug\Interop.Asio.dll

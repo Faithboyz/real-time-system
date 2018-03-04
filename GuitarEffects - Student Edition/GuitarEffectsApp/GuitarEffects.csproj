@@ -87,6 +87,12 @@
   <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Interop.Asio\Bluewave.Interop.Asio.vcxproj">
+      <Project>{6db00ba8-efde-4d3a-8983-f01857a36c1a}</Project>
+      <Name>Interop.Asio</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
