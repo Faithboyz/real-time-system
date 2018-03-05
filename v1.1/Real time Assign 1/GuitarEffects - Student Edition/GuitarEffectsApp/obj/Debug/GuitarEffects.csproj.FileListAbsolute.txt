@@ -1,0 +1,8 @@
+C:\Users\sanke\Documents\GitHub\Event2Go\Real time Assign 1\GuitarEffects - Student Edition\GuitarEffectsApp\bin\Debug\GuitarEffects.exe.config
+C:\Users\sanke\Documents\GitHub\Event2Go\Real time Assign 1\GuitarEffects - Student Edition\GuitarEffectsApp\bin\Debug\GuitarEffects.exe
+C:\Users\sanke\Documents\GitHub\Event2Go\Real time Assign 1\GuitarEffects - Student Edition\GuitarEffectsApp\bin\Debug\GuitarEffects.pdb
+C:\Users\sanke\Documents\GitHub\Event2Go\Real time Assign 1\GuitarEffects - Student Edition\GuitarEffectsApp\bin\Debug\Interop.Asio.pdb
+C:\Users\sanke\Documents\GitHub\Event2Go\Real time Assign 1\GuitarEffects - Student Edition\GuitarEffectsApp\obj\Debug\GuitarEffects.csprojResolveAssemblyReference.cache
+C:\Users\sanke\Documents\GitHub\Event2Go\Real time Assign 1\GuitarEffects - Student Edition\GuitarEffectsApp\obj\Debug\GuitarEffects.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Documents\GitHub\Event2Go\Real time Assign 1\GuitarEffects - Student Edition\GuitarEffectsApp\obj\Debug\GuitarEffects.exe
+C:\Users\sanke\Documents\GitHub\Event2Go\Real time Assign 1\GuitarEffects - Student Edition\GuitarEffectsApp\obj\Debug\GuitarEffects.pdb
